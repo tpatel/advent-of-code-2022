@@ -15,7 +15,7 @@ function part1() {
   //do something here
 }
 
-function getInput() {
+function part2() {
   const input = getInput();
   //do something here
 }
